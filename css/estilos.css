@@ -8,6 +8,16 @@ body {
 
 }
 
+#cabecera
+{
+
+    background: #33A;
+    box-shadow: opx 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    margin: 0;
+    padding: 0.5em; 
+    font-weight: bold;
+}
 
 #container {
     width: 70%;
@@ -21,4 +31,11 @@ body {
 #container h1 {
 
     font-size: 20px;
+}
+
+#cabecera #tagline{
+padding: 0 0 0 1em;
+font-weight: normal;
+font-size: 0.8em;
+
 }
